@@ -13,3 +13,5 @@ im currently working on the following projects:
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,androidstudio,java" />
   </a>
 </p>
+
+for cooperation and contact: haZee#4196
