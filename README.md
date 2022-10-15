@@ -4,9 +4,7 @@ im currently working on the following projects:
 - an Android App
 - other applications
 
-
-
-
+career aspiration: IT Specialist
 
 <p align="center">
   <a href="https://skillicons.dev">
