@@ -13,4 +13,4 @@ career aspiration: IT Specialist
   </a>
 </p>
 
-for cooperation and contact: haZee#4196
+for cooperation and contact(discord): @realhazee (old: haZee#4196)
