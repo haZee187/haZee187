@@ -2,9 +2,8 @@ Hey,
 im currently working on the following projects:
 - an Android App: <a href="https://github.com/haZee187/readforandroid"><u>Read</u></a>
 - other applications
-- a game with unreal engine 5
 
-career aspiration: IT Specialist
+job: IT Specialist
 
 <p align="center">
   <a href="https://skillicons.dev">
