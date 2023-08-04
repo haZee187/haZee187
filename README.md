@@ -13,4 +13,4 @@ discord server: https://discord.gg/fva27W4Sqt
   </a>
 </p>
 
-for cooperation and contact(discord): @realhazee (old: haZee#4196)
+for cooperation and contact(discord): @realhazee
