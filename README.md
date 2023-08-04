@@ -1,7 +1,6 @@
 Hey, 
 im currently working on the following projects:
-- NeoN Discord Bot <a href="https://discord.com/api/oauth2/authorize?client_id=835458403726786561&permissions=8&scope=bot">[Invite NeoN]</a>
-- an Android App
+- an Android App: <a href="https://github.com/haZee187/readforandroid"><u>Read</u></a>
 - other applications
 - a game with unreal engine 5
 
