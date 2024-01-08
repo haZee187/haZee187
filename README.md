@@ -6,8 +6,6 @@ im currently working on the following projects:
 
 job: IT Specialist
 
-discord server: https://discord.gg/fva27W4Sqt
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,androidstudio,java" />
