@@ -5,5 +5,3 @@ job: IT Specialist
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,androidstudio,java" />
   </a>
 </p>
-
-for cooperation and contact (discord): @realhazee
